@@ -46,7 +46,7 @@ Time can be specified in
 	-h	    hours   (always  60 minutes)
 	-d		days    (always  24 hours)
 	-m      months  (always  30 days)
- -y      years   (always 365 days)
+	-y      years   (always 365 days)
 ```
 
 If multiple time flags are present, they are added together, so
